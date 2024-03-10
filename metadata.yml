@@ -1,0 +1,12 @@
+---
+:id: 130500141
+:submitters:
+- :name: Yilin Zhu
+  :email: yiz095@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-08-17 21:41:06.678575000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-08-17 14:41:06.678575000 Z
+:status: processed
+:score: 142.2
